@@ -11,7 +11,7 @@ public class Demo {
 
         Demo1.Person p = new Demo1.Person();
         p.sleep();
-        System.out.println("Hey this is my first code");
+        System.out.println("Hey this is my first Training");
     }
 }
 /**
