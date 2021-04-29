@@ -10,8 +10,6 @@ public class MultiThread implements Runnable{
      *
      * Thread
      * Runnable
-     *
-     *
      * lifecycle:
      * ->new
      * ->ready

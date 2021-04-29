@@ -15,7 +15,7 @@ public class Demo {
     }
 }
 /**
- * java ->   .class -> B*
+ *
  *
  * #include
  * void main(){
@@ -28,7 +28,7 @@ public class Demo {
  *
  * }
  * int sub(){
- *
+
  * }
- *
+
  * */
